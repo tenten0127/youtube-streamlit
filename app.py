@@ -53,7 +53,8 @@ try:
         'google': 'GOOGL',
         'microsoft': 'MSFT',
         'netflix': 'NFLX',
-        'amazon': 'AMZN'
+        'amazon': 'AMZN',
+        'yahoo': 'YOJ.SG'
     }
 
     df = get_data(days, tickers)
